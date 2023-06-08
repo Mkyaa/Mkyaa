@@ -1,6 +1,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mkyaa&label=Profile%20views&color=0e75b6&style=flat" alt="mkyaa" /> </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=44&duration=4000&pause=1000&color=31A9DF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I+am+Mert+Kaya" alt="Typing SVG" /></a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=44&duration=4000&pause=1000&color=31A9DF&center=YANLI%C5%9E&vCenter=YANLI%C5%9E&repeat=do%C4%9Fru&width=435&lines=Hi+There!+%F0%9F%91%8B;I+am+Mert+Kaya" alt="Typing SVG" />
+  </a>
+ </h1>
 
 
 
