@@ -5,7 +5,6 @@
  </h1>
 
 
-
 - 🌱 I’m currently learning **Typescript and Next.js**
 
 - 👨‍💻 All of my projects are available at [http://kayamert.net/](http://kayamert.net/)
@@ -25,5 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkyaa&show_icons=true&locale=en&layout=compact" alt="mkyaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkyaa&show_icons=true&locale=en" alt="mkyaa" /></p>
-
+![Mkyaa's Stats](https://github-readme-stats.vercel.app/api?username=Mkyaa&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Mkyaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mkyaa&theme=radical&hide_border=true)
+![Mkyaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkyaa&theme=radical&show_icons=true&hide_border=true&layout=compact)
 ![snake gif](https://github.com/Mkyaa/Mkyaa/blob/output/github-contribution-grid-snake.svg)
