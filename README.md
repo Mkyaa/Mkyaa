@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkyaa&show_icons=true&locale=en&layout=compact" alt="mkyaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkyaa&show_icons=true&locale=en" alt="mkyaa" /></p>
+
+![snake gif](https://github.com/Mkyaa/Mkyaa/blob/output/github-contribution-grid-snake.gif)
