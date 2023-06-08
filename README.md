@@ -23,7 +23,11 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Mkyaa&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="mkyaa" />
+ </p>
+ <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mkyaa&theme=radical&hide_border=true" alt="mkyaa" />
+ </p>
+ <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkyaa&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="mkyaa" />
 </p>
 
