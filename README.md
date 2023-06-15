@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript and Next.js**
 
-- 👨‍💻 All of my projects are available at [http://kayamert.net/](http://kayamert.net/)
+- 👨‍💻 All of my projects are available at [http://kayamert.dev/](http://kayamert.dev/)
 
 - 📫 How to reach me **kayamert@live.com**
 
